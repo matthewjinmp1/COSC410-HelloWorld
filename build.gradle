@@ -12,7 +12,7 @@ plugins {
     id 'com.github.kt3k.coveralls' version '2.6.3'
     id 'org.roboscratch.robot' version '0.1.2'
 }
-
+ 
 apply plugin: 'java'
 apply plugin: 'jacoco'
 apply plugin: 'application'
